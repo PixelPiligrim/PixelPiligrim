@@ -2,7 +2,7 @@
 <h2>Quick Facts About Me</h2>
 <li>👀 I’m interested in QA, Testing and Coding </li>
 <li>🌱 I’m currently learning Automating QA</li>
-<li>📫 Telegram: t.me/PixelPiligrimDev</li>
+<li>📫 Telegram: t.me/Pixel_Piligrim</li>
 <li>I like to play videogames, read books and listen to music</li>
 <h2>Test Artifacts</h2>
 TODO Add some links to test artifacts
