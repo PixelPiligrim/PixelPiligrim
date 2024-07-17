@@ -5,7 +5,7 @@
 <li>📫 Telegram: t.me/Pixel_Piligrim</li>
 <li>I like to play videogames, read books and listen to music</li>
 <h2>Test Artifacts</h2>
-TODO Add some links to test artifacts
+<a href="https://github.com/PixelPiligrim/QA_API_Test">API Testing</a>
 <!---
 PixelPiligrim/PixelPiligrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
